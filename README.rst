@@ -1,4 +1,4 @@
-Elucidata Corna Package
+Natural Abundance Correction for Isotopic Carbon in MS or LCMS experiment
 
 Running the package:
 
